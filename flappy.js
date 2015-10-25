@@ -27,6 +27,7 @@ function preload() {
  * Initialises the game. This function is only called once.
  */
 function create() {
+
     // set the background colour of the scene
     game.add.image(0, 0, "Backdrop");
     var background = game.add.image(0, 0, "Backdrop");

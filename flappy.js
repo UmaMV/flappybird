@@ -46,6 +46,7 @@ function create() {
     //var sprite=game.add.sprite(700, 350, "playerImg");
     //sprite.scale.x=0.3;
     //sprite.scale.y=0.3;
+    //helooo
 
     //game.input
       //  .keyboard.addKey(Phaser.Keyboard.SPACEBAR)
